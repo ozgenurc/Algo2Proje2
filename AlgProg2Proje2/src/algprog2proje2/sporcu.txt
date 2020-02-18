@@ -1,0 +1,9 @@
+
+Cristiano Ronaldo, 5/2/1985, Manchester Utd, Real Madrid, Juventus
+Dogukan Inci, 11/3/1999, Karsiyaka
+Fernando Muslera, 16/6/1986, Wanderers, Lazio, Galatasayar
+Lionel Messi, 24/06/1987, Barça, FC Barcelona
+Ricardo Quaresma, 26/9/1983, Sporting Lizbon, Inter, FC Porto, Besiktas
+Serdar Gurler, 14/9/1991, Trabzonspor, Genclerbirligi, Osmanlispor, Huesca, Goztepe
+Wesley Sneijder, 9/6/1984, Ajax, Real Madrid, Galatasaray
+Zlatan Ibrahimovic, 3/10/1981, Juventus, Barcelona, Ajax, Milan, Manchester Utd 
